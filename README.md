@@ -86,6 +86,23 @@ exit [code]    # シェル終了
 - **コンパイラ**: GCC / Clang
 - **依存関係**: readline library
 
+### 事前準備(必要な場合)
+#### macOS
+```bash
+# Homebrewでインストール
+brew install readline
+
+# インストール場所の確認
+brwe info readline
+```
+
+#### Linux(Ubuntu/Debian)
+```bash
+# 開発用パッケージをインストール
+sudo apt-get update
+sudo apt-get install libreadline-dev
+```
+
 ### インストール
 ```bash
 # リポジトリクローン
