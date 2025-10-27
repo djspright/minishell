@@ -5,6 +5,8 @@
 [![42 School](https://img.shields.io/badge/42-000000?style=flat&logo=42&logoColor=white)](https://42.fr/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[Link to Wiki](https://github.com/djspright/minishell/wiki)
+
 ## プロジェクト概要
 
 **Minishell**は、42 Schoolのカリキュラムで開発したBashライクなシェル実装です。システムプログラミングの深い理解とUnix/Linuxの基本概念を実証するプロジェクトです。
